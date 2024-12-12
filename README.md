@@ -12,7 +12,7 @@ Este repositório busca abordar assuntos de estrutura de dados, de maneira simpl
 - **Lista Ligada (Linked List)**
   
 ---
-Linguagem ultilizada:
+## Linguagem ultilizada:
 - **C**
 
 ---
