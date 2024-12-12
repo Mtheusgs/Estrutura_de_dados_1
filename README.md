@@ -1,6 +1,6 @@
 # Estruturas de Dados em C
 
-Este repositório busca abordar assuntos de estrutura de dados, de maneira simples e de várias **estruturas de dados** comuns na linguagem **C**. O objetivo é fornecer uma maneira simples de aprender, entender e implementar diferentes tipos de estruturas de dados, além de demonstrar as melhores práticas de programação em C.
+Este repositório busca abordar assuntos de estrutura de dados. O objetivo é fornecer uma maneira simples de aprender, entender e implementar diferentes tipos de estruturas de dados, além de demonstrar as melhores práticas de programação em C.
 ---
 ## Estruturas Implementadas
 
