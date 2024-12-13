@@ -22,4 +22,4 @@ Este repositório busca abordar assuntos de estrutura de dados. O objetivo é fo
 1. **Clone o repositório:**
    ```bash
    git clone https://github.com/Mtheusgs/Estrutura_de_dados_1.git
-   cd estruturas-de-dados-c
+   cd Estruturas_de_dados_1
